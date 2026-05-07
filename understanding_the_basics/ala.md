@@ -17,3 +17,22 @@ Arquitetura de aplicação é o processo de definir uma estrutura que alcance to
 **Padrões de projeto** são soluções reutilizáveis ​​de baixo nível para problemas comuns que ocorrem em um determinado contexto no projeto de software. Eles se concentram mais em como os componentes ou módulos individuais de um sistema interagem do que na estrutura geral do sistema.
 
 ## Principais considerações para escolher a arquitetura de aplicação correta 
+
+Ao escolher uma arquitetura de aplicação, considere as seguintes questões:
+
+* Que funcionalidades são necessárias?
+    - Cada aplicação é projetada para resolver um problema específico ou atender a uma necessidade particular. Portanto, a funcionalidade da aplicação dependerá do problema que ela se propõe a resolver ou da necessidade que ela deve atender.
+
+    - Portanto, ao projetar a arquitetura de uma aplicativo, é importante considerar cada funcionalidade individualmente e pensar em como elas irão interagir entre si.
+
+* Qual a importância do desempenho e da escalabilidade?
+    - Desempenho refere-se à eficiência com que o aplicativo consegue lidar com tarefas, enquanto escalabilidade se refere à capacidade do aplicativo em lidar com o aumento da carga de trabalho de forma eficaz.
+
+* Onde o software será hospedado?
+    - A localização onde o aplicativo será hospedado é outro aspecto crítico a ser considerado ao selecionar uma arquitetura de aplicativo.
+
+* Com que rapidez a aplicação evoluirá?
+    - Este ponto refere-se ao fato de que as transições de curto prazo exigirão uma base mais flexível.
+
+* Qual é o nível de habilidade da sua equipe de desenvolvimento?
+    - O nível de habilidade da equipe do projeto é um fator importante, pois limita o tipo de tecnologia que será utilizada durante o processo.
